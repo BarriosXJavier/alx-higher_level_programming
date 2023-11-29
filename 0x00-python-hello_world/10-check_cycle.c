@@ -1,4 +1,5 @@
 #include "lists.h"
+#include <stdio.h>
 
 /*main -  check if a linked list has a cycle */
 /*check_cycle - check for a cycle */
