@@ -4,4 +4,3 @@ for j in range(9):
         if j * 10 + k < 89:
             print("{:d}{:d}".format(j, k), end=", ")
 print("{:d}".format(89))
-
